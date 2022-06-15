@@ -1,4 +1,4 @@
-# MLNets
+# Hyperspectral Image Classification With Mixed Link Networks
 
 PyTorch implementation of hyperspectral image classification with mixed link networks.
 
