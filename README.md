@@ -1,4 +1,4 @@
-# DMLN
+# MLNets
 
 PyTorch implementation of hyperspectral image classification with mixed link networks.
 
@@ -9,7 +9,8 @@ PyTorch implementation of hyperspectral image classification with mixed link net
 # Basic Usage
 
 ```
-model = DMLN(num_classes=16, channels=200)
+model = MLNet_A(num_classes=16, channels=200)
+# model = MLNet_B(num_classes=16, channels=200)
 model.eval()
 print(model)
 input = torch.randn(100, 200, 11, 11)
