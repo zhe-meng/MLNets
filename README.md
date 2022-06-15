@@ -2,6 +2,9 @@
 
 PyTorch implementation of hyperspectral image classification with mixed link networks.
 
+![1](fig/1.png)
+![1](fig/2.png)
+![1](fig/3.png)
 
 # Basic Usage
 
