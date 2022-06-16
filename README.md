@@ -9,6 +9,9 @@ PyTorch implementation of hyperspectral image classification with mixed link net
 # Basic Usage
 
 ```
+import torch
+from MLNets import MLNet_A, MLNet_B
+
 model = MLNet_A(num_classes=16, channels=200)
 # model = MLNet_B(num_classes=16, channels=200)
 model.eval()
@@ -35,7 +38,11 @@ Please cite our paper if you find it useful for your research.
   publisher={IEEE}
 }
 ```
+# Reference Paper
 
-# Acknowledgment
+* Involution: Inverting the Inherence of Convolution for Visual Recognition https://arxiv.org/abs/2103.06255
 
-This code is partly borrowed from [Mixed Link Networks](https://github.com/DeepInsight-PCALab/MixNet).
+# Reference Code
+
+* MixNet https://github.com/DeepInsight-PCALab/MixNet
+
