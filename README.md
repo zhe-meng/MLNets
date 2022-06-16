@@ -40,7 +40,7 @@ Please cite our paper if you find it useful for your research.
 ```
 # Reference Paper
 
-* Involution: Inverting the Inherence of Convolution for Visual Recognition https://arxiv.org/abs/2103.06255
+* Mixed Link Networks https://arxiv.org/abs/1802.01808
 
 # Reference Code
 
