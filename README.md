@@ -38,11 +38,6 @@ Please cite our paper if you find it useful for your research.
   publisher={IEEE}
 }
 ```
-# Reference Paper
 
-* Mixed Link Networks https://arxiv.org/abs/1802.01808
-
-# Reference Code
-
-* MixNet https://github.com/DeepInsight-PCALab/MixNet
-
+# Acknowledgement
+We thank authors of MixNet for sharing their code. We implement our MLNets based on their [source code](https://github.com/DeepInsight-PCALab/MixNet). If you find this code is helpful in your research, please consider citing our paper and [MixNet](https://arxiv.org/abs/1802.01808)
